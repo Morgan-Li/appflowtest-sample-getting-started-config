@@ -8,6 +8,7 @@ app:
 
 
 
+
   # number of instances
   instances:
     # min number of instances. can be 0 for scale to 0. default to 1.
